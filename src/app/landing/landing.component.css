@@ -1,0 +1,38 @@
+.container-fluid {
+    background-color: rgba(227, 230, 53);
+    padding: 10px;
+}
+
+.repo {
+    min-height: 250px;
+    padding: 7px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.repo a {
+    color: #875ACB;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.userdetail {
+    padding: 10px 30px;
+    max-width: 700px;
+}
+
+.userdetail a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.moredetail {
+    padding: 20px;
+}
+
+.userdetail p {
+    font-weight: bold;
+}

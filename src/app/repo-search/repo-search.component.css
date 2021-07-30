@@ -1,0 +1,46 @@
+#reposearch {
+    width: 25%;
+}
+
+
+/* .container button {
+    background-color: #875ACB;
+    color: White;
+    margin-left: 10px;
+} */
+
+.container-fluid {
+    background-color: aquamarine;
+    ;
+    padding: 10px;
+}
+
+
+/* .container button {
+    background-color: #19e0d6;
+    color: White;
+    margin-left: 10px;
+} */
+
+.repo {
+    min-height: 250px;
+    padding: 10px;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+    background-color: rgb(218, 255, 196);
+}
+
+.repo a {
+    color: #875ACB;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+span {
+    color: blue;
+    font-weight: 500;
+    font-family: italic;
+}

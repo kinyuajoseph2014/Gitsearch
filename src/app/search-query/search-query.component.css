@@ -1,0 +1,37 @@
+.container-fluid {
+    height: 88vh;
+    margin-top: -10px;
+    background-color: aquamarine;
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+}
+
+
+/* .search {
+    max-width: 500px;
+    padding: 20px;
+} */
+
+
+/* button:hover {
+    background-color: #875ACB;
+    color: white;
+} */
+
+
+/* input {
+    border-bottom: 3px solid #000;
+} */
+
+input[type=text] {
+    border-radius: 18px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    -ms-border-radius: 18px;
+    -o-border-radius: 18px;
+    border: none;
+    padding: 10px;
+}
